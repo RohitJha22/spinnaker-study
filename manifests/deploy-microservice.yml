@@ -2,7 +2,7 @@ kind: Deployment
 apiVersion: apps/v1
 metadata:
     labels:
-        app: team--microservice
+        app: team2-microservice
         stack: frontend
         source: demo
     name: team2-microservice
